@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyTorch models (large files — regenerated via training)
+models/*.pth
+
+# Data files (large — download from NASA)
+data/*.mat
+data/*.csv
+
+# Logs checkpoints (intermediate)
+logs/*_checkpoint.csv
