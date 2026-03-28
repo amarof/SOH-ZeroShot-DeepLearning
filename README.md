@@ -3,8 +3,6 @@
 **State of Health Estimation of Lithium-Ion Batteries: A Comparative Study of LSTM and CNN-LSTM Architectures**
 
 > SYSC 5108W — Deep Learning | Carleton University | Winter 2026  
-> Jalal AMAROF (101373872)
-
 ---
 
 ## Overview
